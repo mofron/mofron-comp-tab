@@ -1,0 +1,26 @@
+{
+  "name": "mofron-comp-tab",
+  "version": "0.0.1",
+  "description": "tab component for mofron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "mofron-event-click" : "",
+    "mofron-effect-center" : ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mofron/mofron-comp-tab.git"
+  },
+  "keywords": [
+    "front-end"
+  ],
+  "author": "simparts",
+  "license": "SEE LICENSE IN LISCENSE",
+  "bugs": {
+    "url": "https://github.com/mofron/mofron-comp-tab/issues"
+  },
+  "homepage": "https://github.com/mofron/mofron-comp-tab#readme"
+}
